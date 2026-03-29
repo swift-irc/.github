@@ -1,6 +1,6 @@
 # Swift IRC
 
-Maintained IRC protocol, client, and server tooling for Swift `6.2`.
+Maintained IRC protocol, client, and server tooling targeting Swift `6.3`.
 
 `swift-irc` is the maintained fork lane for a modern Swift IRC stack. We keep
 provenance explicit: upstream mirrors remain separate, while this org carries
@@ -21,5 +21,5 @@ the maintained line for protocol, client, gateway, bot, and server layers.
 ## Status
 
 The organization is being prepared in the open. The first milestone is simple:
-make the existing stack explicit, modern, and reliable on Swift `6.2` before
+make the existing stack explicit, modern, and ready for Swift `6.3` before
 expanding scope.
